@@ -1,4 +1,4 @@
-# BDR Team (Team Gearbox)
+# BDR Team (Team Gearbox?)
 Welcome to the documentation repository for the **BDR Team** at EDB.
 
 ![](logo.png)
@@ -29,19 +29,6 @@ Stream Aligned (as defined in ["Team Topologies"](https://www.atlassian.com/devo
 **Development Manager** Leo jin
 **Product Manager:** John Dalton
 
-amruta.deolasee@enterprisedb.com
-ashutosh.bapat@enterprisedb.com
-bharat.telange@enterprisedb.com
-florin.irion@enterprisedb.com
-leo.jin@enterprisedb.com
-markus.wanner@enterprisedb.com
-oliver.riggs@enterprisedb.com
-pallavi.sontakke@enterprisedb.com
-pavan.deolasee@enterprisedb.com
-petr.jelinek@enterprisedb.com
-rahila.syed@enterprisedb.com
-vinit.amrutkar@enterprisedb.com
-
 Team Members (in alphabetical order):
 
 * [Amruda Deolasse](mailto:amruta.deolasee@enterprisedb.com)
@@ -60,7 +47,6 @@ Team Members (in alphabetical order):
 
 You can find us on these chats.
 
-- [#eng-bdr-dev](https://edb.slack.com/archives/G01FLQYF0H1) - our private development channel
 - [#edb-eng-bdr](https://edb.slack.com/archives/C01HQ599LR3) - our public channel for general discussions or inquiries.
 
 ## About this guide
