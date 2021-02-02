@@ -27,10 +27,7 @@ recommended skills, training materials, books, certification paths, and so on.
 
 | Topic | Title | Platform | Notes |
 | ----- | ----- | -------- | ----- |
-| Kubernetes | [Kubernetes Essentials](https://linuxacademy.com/cp/modules/view/id/281) | Linux Academy | |
-| Kubernetes | [Kubernetes for the absolute beginner](https://www.udemy.com/share/1013LOBksZdlxQQ3o=/) | Udemy | |
-| Kubernetes | [Cloud Native Certified Kubernetes Administrator (CKA)](https://linuxacademy.com/cp/modules/view/id/327) | Linux Academy | |
-| Kubernetes | [Certified Kubernetes Administrator (CKA) with practice tests](https://www.udemy.com/share/101WmEBksZdlxQQ3o=/) | Udemy | Recommended for CKA |
+
 > ... (please expand)
 
 ## Certification paths
