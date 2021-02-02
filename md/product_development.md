@@ -20,11 +20,9 @@ customizations:
 
 - the Continuous Delivery branch is called "main" and is protected
 - Github is configured for linear development (no merge commits)
-- development happens in separate branches created from the "main" branch and called "*dev/TICKET_ID*"
-- Once completed, developers must submit a pull request, which needs
-  to pass some preliminary automated tests (\< 10 minutes) and then
-  reviewed twice before being merged into "main" (with deeper
-  automated tests required)
+- development happens in separate branches created from the "main" branch and called "*dev/TICKET_ID*".  `TICKET_ID` in this case is the ticket id of a `Story` or `Task`, never a `Sub-task`
+- Developers will only work with `Sub-tasks` which are piece of work that need to be completed in order to complete its parent (`Story` or `Task`) ticket.  When development is completed for a `Sub-task`, developer must submit a pull request and mention the *`Sub-task` `TICKET_ID` as the title of the pull request* (By default, Github will take the first commit into your dev branch).
+- The pull request will need to pass a set of preliminary automated tests and reviewed by a designated principal BDR developer before merging into `main`.
 
 Automated tests vary in depth and width depending on the phase.
 Scheduled tests run once a day or on demand for different Cloud
