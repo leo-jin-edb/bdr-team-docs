@@ -8,18 +8,19 @@ recommended skills, training materials, books, certification paths, and so on.
 
 ## Required skills
 
+- PostgresSQL
+- Distributed systems architecture
 - Linux administration
+- C
 - Git
 - Docker
-- Kubernetes administration
 > ... (please expand)
 
 ## Recommended skills
 
-- PostgreSQL
-- Python development
-- Go development
-- Terraform
+- Nodejs
+- 
+
 > ... (please expand)
 
 ## Recommended training
