@@ -17,7 +17,7 @@ Below is a list of repositories BDR team maintains or contributes to
 | pglogical-dump |[EnterpriseDB/pglogical-dump](https://github.com/EnterpriseDB/pglogical-dump)|
 | pglogical-mkdocs |[EnterpriseDB/pglogical-mkdocs](https://github.com/EnterpriseDB/pglogical-mkdocs)|
 | pglogical-plugins |[EnterpriseDB/pglogical-plugins](https://github.com/EnterpriseDB/pglogical-plugins)|
-| postgres-bdr |[postgres-bdr](https://github.com/EnterpriseDB/postgres-bdr)|
+| postgres-bdr |[EnterpriseDB/postgres-bdr](https://github.com/EnterpriseDB/postgres-bdr)|
 
 ## Slides
 
