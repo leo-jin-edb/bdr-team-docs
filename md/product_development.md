@@ -26,10 +26,26 @@ customizations:
 - When development is completed for a `Sub-task`, developer must submit a pull request and mention the **`Sub-task` `ticket number` any where in the title of the pull request** and the Github action `Jira sync` will parse the PR title to transition your ticket to `In Review` status in JIRa when you request a reviewr for your PR. 
 - The pull request will need to pass a set of preliminary automated tests and reviewed by a designated principal BDR developer before merging into `main`.
 
-### Example:
-Syncing `Sub-task` status in JIRA Example:
+
+### Why automatically transition JIRA tickets matter?
+
+We need to keep track of our team KPIs to answer these questions (for now).
+
+1. How long on average does it take for Jira ticket to go from "Backlog" to "Done"? 
+2. How long on average does a ticket stay in review status?
+3. How many times a merged PR fails Integration testing?
+4. How long on average does a "sub-task" live?
+
+In order to have good data to reflect these KPIs, we need to ensure we transition tickets in a timely manner, therefore, auto transition based on standard development activities is helpful.
+
+### Examples:
+Properly named branches and commit messages can trigger auto transition in JIRA.
 
 ![](jira_sync_1.png)
+
+Properly named PRs can trigger auto transition in JIRA.
+
+![](jira_sync_2.png)
 
 ## Meetings
 

@@ -34,11 +34,6 @@ recommended skills, training materials, books, certification paths, and so on.
 
 Here follows a list of recommended certification paths to take for your professional growth:
 
-- [RedHat Certified System Administrator (RHCSA)](https://www.redhat.com/en/services/certification/rhcsa)
-- [Certified Kubernetes Administrator (CKA)](https://www.cncf.io/certification/cka/)
-- [Certified Kubernetes Application Developer (CKAD)](https://www.cncf.io/certification/ckad/)
-- [Certified Kubernetes Security Specialist (CKS)](https://www.cncf.io/certification/cks/)
 > ... (please expand)
-
 
 
