@@ -41,7 +41,7 @@ In order to have good data to reflect these KPIs, we need to ensure we transitio
 ### Examples:
 Properly named branches and commit messages can trigger auto transition in JIRA.
 
-![](jira_sync_1.png)
+![](jira_sync_sc_1.png)
 
 Properly named PRs can trigger auto transition in JIRA.
 
