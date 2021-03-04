@@ -31,14 +31,14 @@ Stream Aligned (as defined in ["Team Topologies"](https://www.atlassian.com/devo
 
 Team Members (in alphabetical order):
 
-* [Amruda Deolasse](mailto:amruta.deolasee@enterprisedb.com)
+* [Amruta Deolasse](mailto:amruta.deolasee@enterprisedb.com)
 * [Ashutosh Bapat](mailto:ashutosh.bapat@enterprisedb.com)
 * [Bharat Telange](mailto:bharat.telange@enterprisedb.com)
 * [Florin Irion](mailto:florin.irion@enterprisedb.com)
 * [Marcus Wanner](mailto:markus.wanner@enterprisedb.com)
 * [Oliver Riggs](mailto:oliver.riggs@enterprisedb.com)
 * [Pallavi Sontakke](pallavi.sontakke@enterprisedb.com)
-* [Paven Deolasee](mailto:pavan.deolasee@enterprisedb.com)
+* [Pavan Deolasee](mailto:pavan.deolasee@enterprisedb.com)
 * [Per Jelinek](mailto:petr.jelinek@enterprisedb.com)
 * [Rahila Syed](mailto:rahila.syed@enterprisedb.com)
 * [Vinit Amrutkar](mailto:vinit.amrutkar@enterprisedb.com)
